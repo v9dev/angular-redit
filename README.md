@@ -1,6 +1,6 @@
 # AngularReddit
 
-![Screenshot](Screenshot 2022-12-08 223840.png)
+![Screenshot 2022-12-08 223840](https://user-images.githubusercontent.com/99959044/206518772-324f462d-a757-4749-bd43-5e2dca73c626.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
